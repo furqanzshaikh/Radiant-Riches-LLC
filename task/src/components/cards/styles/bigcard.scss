@@ -1,0 +1,153 @@
+.bigcontainer{
+   
+    padding: 5vw;
+    margin-bottom: 25px;
+    height: 45vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img-n-name img{
+    height: 10vw;
+}
+
+.img-n-name p{
+    font-size: 1.3vw;
+    color: #626E79;
+
+}
+
+.img-n-name{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+    margin-right: 8vw;
+}
+.features{
+background-color: #FFF4ED;
+width: 35vw;
+padding: 6px 12px ;
+margin: 10px 20px;
+border-radius: 12px;
+
+
+
+}
+.r-1 span{
+    font-size: 1.2vw;
+}
+
+.details{
+    width: 40vw;
+}
+
+.details h4{
+    margin: 5px ;
+    font-size: 1.2vw;
+}
+.details p{
+color: #4B5665;
+font-size: 1.3vw;
+
+}
+
+.r-1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 8px 0;
+}
+
+.icon{
+    background: #EBF5FF;
+    color: #0855A1;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 1vw;
+
+}
+
+.discount{
+    color: #074786;
+    background: #F2F4F7;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 1.1vw;
+
+}
+.number{
+    color: #1B88F4;
+    background-color: transparent;
+    background-color: #FFFFFF;
+    padding: 0.4vw 1vw ;
+    border-radius: 4px;
+
+}
+
+.b-end{
+display: flex;
+align-items: start;
+justify-content: center;
+flex-direction: column;
+gap: 10px;
+}
+
+
+.feature-child p{
+color: #2C384A;
+
+
+}
+
+.feature-child{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #4B5665;
+   
+
+}
+.btn-n-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8vw;
+    margin-right: 3vw;
+}
+.review-card{
+    background: #F3F9FF;
+    height: 8vw ;
+    width: 10vw;
+    margin-bottom: 2vw;
+    padding: 1.5vw;
+    border-radius: 0 0 12px 12px;
+}
+.btn-n-card button{
+    background: #1B88F4;
+    border: none;
+    padding: 1vw;
+    width: 15vw;
+    border-radius: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+}
+.side-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#dropdown{
+  color: #1B88F4;
+  border: none;
+  margin-top: 20px;
+  width: 8vw;
+  font-size: 1.1vw;
+}

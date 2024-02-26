@@ -1,0 +1,95 @@
+
+
+.box{
+    display: flex;
+    align-items: center;
+}
+
+.related-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 55vh;
+    margin: 2vw 1vw;
+
+}
+.related-card h1{
+    font-size: 1vw;
+}
+.offers{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-bottom: 8px;
+  
+
+}
+.offers p{
+    background: #F2F4F7;
+    border-radius: 4px;
+    font-size: 1vw;
+    display: flex;
+    align-items: center;
+    padding: 0.3vw;
+    color:  #074786;
+    margin: 0 2px;
+
+
+   
+}
+.product-name{
+    margin-bottom: -10px;
+    color: #626E79;
+
+}
+.description{
+    margin:  15px;
+    font-size: 1.1vw;
+    color: #626E79;
+
+}
+.price{
+    display: flex;
+    width: 19vw;
+    margin-bottom: 1vw;
+    align-items: end;
+    
+    
+}
+.price p{
+    text-align: start;
+    margin: 5px 3px;
+
+}
+.selling-price{
+    color: #5C6874;
+    font-size: 1.5vw;
+}
+.off{
+    color: #EF4C5D;
+    font-size: 1vw;
+}
+.discount-price{
+    color: #9FA9B3;
+    font-size: 1.1vw;
+    
+}
+.end-btn{
+
+    background: #1B88F4;
+    border: none;
+    padding: 1vw;
+    width: 17.2vw;
+    border-radius: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+
+}
+
+.related-card img{
+    width: 10vw;
+    margin-bottom: 2vw;
+}

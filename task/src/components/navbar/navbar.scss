@@ -1,0 +1,29 @@
+nav{
+    background-color: #212731;
+    padding: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:4vw;
+
+}
+
+.container input{
+    padding: 0;
+    height: 3vw;
+    width: 20vw;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.container a{
+    color: #D1D6DA;
+    font-size: 1.1vw;
+    text-decoration: none;
+}

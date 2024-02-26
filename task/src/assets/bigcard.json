@@ -1,0 +1,25 @@
+{
+    "products": [
+      { "id":1,
+        "heading": "CDK Resposive Builder:",
+        "description": "An extensive library of widgets and apps, and detailed step-by-step guides",
+        "stars_feedback": 4.5,
+        "discount": "26%",
+        "name": "CDK",
+        "rating":9.1,
+        "feedback":"Very Good",
+        "stars":4,
+        "feature1":"Building Response",
+        "feature1-rating":9.9,
+        "feature2":"Cool",
+        "feature2-rating":8.9,
+        "feature3":"Docs",
+        "feature3-rating":8.9,
+        "benefit1":"Documentation",
+        "benefit2":"Easy Use",
+        "benefit3":"Out of box"
+      }
+      
+    ]
+  }
+  
